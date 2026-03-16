@@ -48,7 +48,7 @@ front-end/
 - Supports server-side pagination with `Prev` and `Next`
 - Supports category updates through a modal dialog
 - Supports image details in a modal on item click
-- Supports sorting by `id` or `date`
+- Supports sorting by oldest or newest 
 - Includes backend error handling for invalid requests and upstream API failures
 
 ## Prerequisites
