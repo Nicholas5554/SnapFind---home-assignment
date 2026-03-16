@@ -3,7 +3,7 @@ import cors from 'cors';
 import imageRoutes from './routes/imageRoutes.js';
 
 const app = express();
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT;
 
 // Middleware
 app.use(cors());
