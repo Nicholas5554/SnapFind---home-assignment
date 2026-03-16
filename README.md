@@ -179,7 +179,7 @@ GET /api/images/:category?page=1&sortBy=id
 Query parameters:
 
 - `page`: page number, starting from `1`
-- `sortBy`: `id` or `date`
+- `sortBy`: `id` (oldest) or `date` (newest)
 
 Example request:
 
